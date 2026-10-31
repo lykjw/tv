@@ -1,4 +1,5 @@
 央 视,#genre#
+CCTV-1综合频道,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV-1综合频道,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV-1综合频道,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2财经频道,http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
