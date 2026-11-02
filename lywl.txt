@@ -288,6 +288,7 @@ CETV-4,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225906/index.m3u8
 商南,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225953/index.m3u8
 镇安,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225954/index.m3u8
 镇安,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225876/index.m3u8
+镇安,http://111.20.33.70/PLTV/88888893/224/3221227022/index.m3u8
 柞水,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225877/index.m3u8
 剧场,#genre#
 CHC家庭影院,http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
