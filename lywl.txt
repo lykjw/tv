@@ -1,6 +1,4 @@
 央 视,#genre#
-CCTV-1综合频道,http://111.20.33.70/PLTV/88888893/224/3221227072/index.m3u8
-CCTV-1综合频道,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
 CCTV-1综合频道,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1综合频道,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1综合频道,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
@@ -185,6 +183,7 @@ LYTV-1,http://111.20.33.70/PLTV/88888893/224/3221226322/index.m3u8
 凤县电视台,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225868/index.m3u8
 陈仓电视台,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225869/index.m3u8
 麟游电视台,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225870/index.m3u8
+麟游电视台,http://111.20.33.70/PLTV/88888893/224/3221227072/index.m3u8
 洋县电视台-1,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225871/index.m3u8
 定边电视台,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225873/index.m3u8
 韩城综合,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225874/index.m3u8
